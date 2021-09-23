@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:/Users/merve.sayin/dara-version-control/dvc_remote
